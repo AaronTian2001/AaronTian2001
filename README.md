@@ -1,5 +1,4 @@
 ### Hi,你好！👋
-🔭 我就读于**阜阳师范大学**
 
 <!--
 **AaronTian2001/AaronTian2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
